@@ -4,7 +4,7 @@ I am Ursache Ioan, student at Universitatea ”Babeș Bolyai”, Cluj Napoca - t
 
 ## Current projects
 - At the moment, I am planning to deploy a personal website.
-- Repositories are private, re-organisation and publishing of past projects (university assignments/personal projects) remain in progress.
+- Repositories are private, re-organisation and publishing of past projects (university assignments/personal projects) remain a work in progress.
 
 ## Contact
 - Email: ursacheioan82@gmail.com
