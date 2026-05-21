@@ -8,5 +8,4 @@ I am Ursache Ioan, student at Universitatea ”Babeș Bolyai”, Cluj Napoca - t
 
 ## Contact
 - Email: ursacheioan82@gmail.com
-- Telephone: +40 729 324 743
 - LinkedIn: http://www.linkedin.com/in/ioan-ursache-4a6087329
