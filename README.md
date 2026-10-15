@@ -3,7 +3,7 @@
 I am Ursache Ioan, student at Universitatea ”Babeș Bolyai”, Cluj Napoca - the specialisation Mathematics and Computer Science (English).
 
 ## Current projects
-- At the moment, I am planning to deploy a personal website.
+- At the moment, I am planning to deploy a personal website. This may be done later on.
 - Repositories are private, re-organisation and publishing of past projects (university assignments/personal projects) remain a work in progress.
 
 ## Contact
